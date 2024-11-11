@@ -20,6 +20,18 @@ b. Proceso en la terminal para crear los RAIDS:
 
 
 
+    Proceso para la creación de los Volúmenes Lógicos:
+
+a. Crear un volumen físico (PV) para RAID
+![alt text](image-7.png)
+b. Crear un grupo de volúmenes (VG)
+![alt text](image-8.png)
+c. Crear volúmenes lógicos (LV)
+![alt text](image-9.png)
+
+
+
+
 
 
 
