@@ -28,7 +28,12 @@ b. Crear un grupo de volúmenes (VG)
 ![alt text](image-8.png)
 c. Crear volúmenes lógicos (LV)
 ![alt text](image-9.png)
-
+d. Formatear los volúmenes lógicos (ext4) para poder dar uso de estos: 
+![alt text](image-10.png)
+e. Procedemos a crear los directorios en los cuales se montaran los volumenes logicos:
+![alt text](image-11.png)
+f. Se monta los diferentes volumenes logicos en los directorios /mnt creados : 
+![alt text](image-12.png)
 
 
 
