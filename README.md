@@ -59,9 +59,8 @@ c. Podman es una alternativa a Docker y se utiliza para construir las imágenes 
 ![alt text](image-21.png)
 2. Imagen Docker mysql: 
 ![alt text](image-24.png)
-![alt text](image-26.png)
-![alt text](image-23.png)
-![alt text](image-32.png)
+![alt text](image-38.png)
+![alt text](image-37.png)
 
 3. Imagen nginx:
 ![alt text](image-27.png)
@@ -74,7 +73,24 @@ d. Resultado de la creacion de las imagenes con podman:
 
     Proceso de montaje de las imagenes en los volumenes logicos configurados
 
-a. 
+a. Primero establecemos los volumenes logicos como almacenamiento para los contenedores y a su vez los corremos
+![alt text](image-40.png)
+b.Verificamos que este en funcionamiento los contenedores: 
+![alt text](image-41.png)
+c.Mostrar el uso de los diferentes contenedores y su funcionamiento : 
+1. Apache: 
+![alt text](image-50.png)
+![alt text](image-51.png)
+![alt text](image-52.png)
+
+2. nginx:
+![alt text](image-46.png)
+![alt text](image-47.png)
+![alt text](image-49.png)
+3. mysql: 
+![alt text](image-53.png)
+![alt text](image-54.png)
+
 
 
 
