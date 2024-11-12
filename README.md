@@ -45,11 +45,20 @@ a. Creacionde del directorio Donde se almacenaran los diferentes Dockerfiles
 b. Procedemos a crear los Dockerfile para sus respectivas imagenes:
 ![alt text](image-15.png)
 c. Crearemos la imagen necesarias para cada uno de los servicios (apache,mysql y nginx):
-1. Imagen apache: 
+1. Imagen Docker apache: 
 ![alt text](image-17.png)
-![alt text](image-18.png)
-![alt text](image-19.png)
+![alt text](image-22.png)
+![alt text](image-20.png)
+![alt text](image-21.png)
+2. Imagen Docker mysql: 
+![alt text](image-24.png)
+![alt text](image-26.png)
+![alt text](image-23.png)
 
+3. Imagen nginx:
+![alt text](image-27.png)
+![alt text](image-28.png)
+![alt text](image-29.png)
 
 
 
