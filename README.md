@@ -34,6 +34,22 @@ e. Procedemos a crear los directorios en los cuales se montaran los volumenes lo
 ![alt text](image-11.png)
 f. Se monta los diferentes volumenes logicos en los directorios /mnt creados : 
 ![alt text](image-12.png)
+g. Resultado obtenido: 
+![alt text](image-13.png)
+
+
+    Proceso para la creación de las diferentes imagenes que sera usadas: 
+
+a. Creacionde del directorio Donde se almacenaran los diferentes Dockerfiles
+![alt text](image-14.png)
+b. Procedemos a crear los Dockerfile para sus respectivas imagenes:
+![alt text](image-15.png)
+c. Crearemos la imagen necesarias para cada uno de los servicios (apache,mysql y nginx):
+1. Imagen apache: 
+![alt text](image-17.png)
+![alt text](image-18.png)
+![alt text](image-19.png)
+
 
 
 
